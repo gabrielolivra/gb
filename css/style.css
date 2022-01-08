@@ -50,7 +50,7 @@ body{background-color: #0C0C0C;}
     float: left;
     font-weight: 600;
     font-size: 2.2em;
-    padding: 10px 20px;
+    padding-left: 20px;
     text-decoration: none;
   }
   
@@ -138,7 +138,8 @@ color: rgba(249, 249, 249, 1);
 line-height: 1.5;}
 
 .texto-01 h1{font-size: 36px;
-font-weight: 700;}
+font-weight: 700;
+width: 250px;}
 
 .texto-01 p{font-size: 18px;
 font-weight: 500;
@@ -483,8 +484,13 @@ margin: 20px;}
         margin: auto;
         width: 95%;
         }
+
+     
+      .imagem{padding: 0;}
     .imagem img{width: 90%;
     padding: 0;}
+
+    
 
     .texto-01{padding: 5px;
         color: rgba(249, 249, 249, 1);
@@ -495,5 +501,5 @@ margin: 20px;}
             align-items:flex-start;
             flex-wrap: wrap-reverse;}
 
-    .btn-01{margin-bottom: 10px;}
+    .btn-01{margin-left: 20px;}
   }
