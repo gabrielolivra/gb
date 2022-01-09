@@ -146,10 +146,9 @@ font-weight: 500;
 color: rgba(130, 130, 130, 1);
 padding-bottom: 20px;}
 
-.imagem{padding: 20px;
-}
-.imagem img{width: 400px;
-height: 400px;
+
+.imagem img{width: 380px;
+height: 380px;
 padding: 20px;}
 
 .btn-01{width: 157px;
